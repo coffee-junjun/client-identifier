@@ -1,0 +1,3 @@
+# client-identifier
+CiscoルータでMACアドレスに固定IPを振るときに使う奴です
+batファイル版はコピーも自動でしてくれます｡
